@@ -18,6 +18,10 @@ poi per aggiornare alla versione più recente git pull https://github.com/roboso
 Oppure si possono usare i bottoncini verdi che da a disposizione il sito.
 
 
+Per caricare documenti o fare modifiche occorre la registrazione al sito e l'invito al progetto.
+Per avere l'invito basta che mi mandate su ws il nome dell'utente che avete creato.
+
+Inoltre non c'è bisogno di specificare il numero della versione ad un file e farlo progredire manualmente, fa tutto il sistema git.
 
 
 Per chi vuole farsi una piccola cultura c'è la guida di git in italiano.
